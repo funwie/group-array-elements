@@ -1,4 +1,5 @@
-## Divide an array into N equally sized arrays
+## Divide an array into N equally sized arrays.
+All arrays are not guaranteed to be equal (especially the last array in the list)
 
 #### Example 1 = [1, 2, 3, 4, 5]
 
